@@ -1,5 +1,5 @@
 # Jokeset-Annotation
 
 Current Goals:
-
-Tag the sample dataset and compare results.
+Before Friday:
+Tag the sample dataset based on the annotation guidelines so we can compare results.
