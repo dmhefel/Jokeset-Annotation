@@ -1,0 +1,7 @@
+<!ENTITY name "Humor">
+
+<!ELEMENT wordplay ( #PCDATA ) >
+<!ELEMENT focus ( #PCDATA ) >
+<!ELEMENT character ( #PCDATA ) >
+<!ELEMENT reference ( #PCDATA ) >
+<!ELEMENT shock ( #PCDATA ) >
