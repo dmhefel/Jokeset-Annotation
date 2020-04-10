@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 
@@ -78,6 +79,26 @@ ITEM  840
 "An attorney telephoned the governor just after midnite, insisting that he talk to him regarding a matter of utmost urgency.An aide eventually agreed to wake up the governor. "So, what is it? " grumbled the governor. "Judge Garber has just died " said the attorney, "and I want to take his place. " Replied the governor: "Well, it 's OK with me if it 's OK with the undertaker. ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="2~12" text="ITEM  1481"  />
+<wordplay id="w1" spans="1607~1617" text="ITEM  1949"  />
+<wordplay id="w2" spans="1889~1898" text="ITEM  757"  />
+<wordplay id="w3" spans="8778~8788" text="ITEM  1839"  />
+<focus id="f0" spans="430~440" text="ITEM  1246"  />
+<focus id="f1" spans="5516~5525" text="ITEM  177"  />
+<focus id="f2" spans="7343~7352" text="ITEM  169"  />
+<focus id="f3" spans="9015~9025" text="ITEM  1206"  />
+<focus id="f4" spans="11096~11105" text="ITEM  840"  />
+<character id="c0" spans="3050~3060" text="ITEM  1362"  />
+<character id="c2" spans="4084~4093" text="ITEM  314"  />
+<reference id="r0" spans="6135~6144" text="ITEM  575"  />
+<reference id="r1" spans="7888~7898" text="ITEM  1062"  />
+<reference id="r2" spans="7987~7997" text="ITEM  1307"  />
+<reference id="r3" spans="8674~8683" text="ITEM  975"  />
+<reference id="r4" spans="8921~8930" text="ITEM  997"  />
+<shock id="s1" spans="2463~2472" text="ITEM  408"  />
+<shock id="s2" spans="8209~8218" text="ITEM  194"  />
+<shock id="s4" spans="9567~9576" text="ITEM  781"  />
+</TAGS>
 </Humor>
