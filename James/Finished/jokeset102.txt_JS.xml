@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 419
@@ -78,6 +79,26 @@ ITEM 146
 "A couple has been married for many years, and one day the man tells his wife that he wishes she had bigger breasts. "but how am I going to get bigger breasts? " she asks. "That 's simple ", he says, "just rub your breasts with toilet paper every day ". "And that would do it? ", the surprised wife wonders. "Well, ", answers the husband, "it sure did work on your behind! "."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="6795~6804" text="ITEM 1783"  />
+<wordplay id="w1" spans="9012~9021" text="ITEM 1164"  />
+<focus id="f0" spans="1~9" text="ITEM 419"  />
+<focus id="f2" spans="4682~4691" text="ITEM 1597"  />
+<focus id="f3" spans="6369~6378" text="ITEM 1640"  />
+<focus id="f4" spans="7468~7476" text="ITEM 855"  />
+<focus id="f5" spans="10392~10400" text="ITEM 146"  />
+<character id="c0" spans="2171~2180" text="ITEM 1948"  />
+<character id="c1" spans="7400~7409" text="ITEM 1004"  />
+<character id="c3" spans="9110~9118" text="ITEM 952"  />
+<character id="c4" spans="9187~9196" text="ITEM 1575"  />
+<reference id="r0" spans="1128~1136" text="ITEM 793"  />
+<reference id="r2" spans="4273~4282" text="ITEM 1426"  />
+<reference id="r3" spans="5761~5770" text="ITEM 2035"  />
+<reference id="r4" spans="6647~6656" text="ITEM 1087"  />
+<reference id="r6" spans="6855~6864" text="ITEM 1248"  />
+<reference id="r7" spans="8271~8280" text="ITEM 1677"  />
+<reference id="r8" spans="8415~8424" text="ITEM 1868"  />
+<reference id="r9" spans="8529~8538" text=" ITEM 633"  />
+</TAGS>
 </Humor>
