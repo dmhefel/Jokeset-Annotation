@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 868
@@ -77,6 +78,26 @@ ITEM 1875
 "Q: How many data base people does it take to change a light bulb? A: Three:    One to write the light bulb removal program,    one to write the light bulb insertion program, and    one to act as a light bulb administrator to make sure nobody else tries to change the light bulb at the same time."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="12199~12208" text=" ITEM 420"  />
+<focus id="f0" spans="840~848" text="ITEM 665"  />
+<focus id="f1" spans="1022~1030" text="ITEM 591"  />
+<focus id="f2" spans="2013~2022" text="ITEM 1599"  />
+<focus id="f3" spans="2408~2417" text="ITEM 1265"  />
+<focus id="f4" spans="5954~5962" text="ITEM 731"  />
+<focus id="f5" spans="11231~11239" text="ITEM 493"  />
+<character id="c0" spans="1~9" text="ITEM 868"  />
+<character id="c1" spans="1956~1964" text="ITEM 987"  />
+<character id="c2" spans="3228~3236" text="ITEM 969"  />
+<character id="c3" spans="7259~7268" text="ITEM 1955"  />
+<reference id="r0" spans="3297~3306" text="ITEM 1356"  />
+<reference id="r1" spans="5585~5594" text="ITEM 1517"  />
+<reference id="r2" spans="11126~11136" text=" ITEM 1925"  />
+<reference id="r3" spans="12717~12727" text=" ITEM 1875"  />
+<shock id="s0" spans="685~694" text="ITEM 1901"  />
+<shock id="s1" spans="4152~4160" text="ITEM 567"  />
+<shock id="s2" spans="5000~5009" text="ITEM 1961"  />
+<shock id="s3" spans="9880~9890" text="  ITEM 109"  />
+</TAGS>
 </Humor>

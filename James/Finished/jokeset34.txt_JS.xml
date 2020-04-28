@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 284
@@ -78,6 +79,27 @@ ITEM 658
 "A fellow finds himself in front of the Pearly Gates. St. Peter explains that its not so easy to get in heaven. There are some criteria before entry is allowed. For example, was the man religious in life? Attend church? No? St. Peter told him that 's bad. Was he generous? give money to the poor? Charities? No? St. Peter told him that that too was bad. Did he do any good deeds? Help his neighbor? Anything? No? St. Peter was becoming concerned. Exasperated, Peter says, "Look, everybody does something nice sometime. Work with me, I 'm trying to help. Now think! " The man says, "There was this old lady. I came out of a store and found her surrounded by a dozen Hell 's Angels. They had taken her purse and were shoving her around, taunting and abusing her. I got so mad I threw my bags down, fought through the crowd, and got her purse back. I then helped her to her feet. I then went up to the biggest, baddest biker and told him how despicable, cowardly and mean he was and then spat in his face ". "Wow ", said Peter, "That 's impressive. When did this happen "? "Oh, about 10 minutes ago ", replied the man."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w1" spans="3751~3759" text="ITEM 770"  />
+<focus id="f0" spans="1~9" text="ITEM 284"  />
+<focus id="f1" spans="2045~2053" text="ITEM 572"  />
+<focus id="f2" spans="3269~3277" text="ITEM 390"  />
+<focus id="f3" spans="4324~4332" text="ITEM 825"  />
+<focus id="f4" spans="5766~5775" text="ITEM 1218"  />
+<focus id="f5" spans="9062~9070" text="ITEM 296"  />
+<focus id="f6" spans="8738~8746" text="ITEM 741"  />
+<character id="c0" spans="912~921" text="ITEM 1429"  />
+<character id="c1" spans="3216~3224" text="ITEM 936"  />
+<character id="c2" spans="5103~5112" text="ITEM 1614"  />
+<character id="c4" spans="7644~7653" text="ITEM 1578"  />
+<character id="c5" spans="8639~8647" text="ITEM 994"  />
+<reference id="r1" spans="1308~1317" text="ITEM 1793"  />
+<reference id="r2" spans="2718~2726" text="ITEM 779"  />
+<reference id="r3" spans="4740~4748" text="ITEM 102"  />
+<reference id="r4" spans="6992~7001" text="ITEM 1245"  />
+<reference id="r5" spans="7342~7350" text="ITEM 565"  />
+<reference id="r6" spans="9857~9866" text="ITEM 1385"  />
+<reference id="r7" spans="11215~11223" text="ITEM 658"  />
+</TAGS>
 </Humor>

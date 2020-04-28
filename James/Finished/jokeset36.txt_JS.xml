@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 897
@@ -81,6 +82,27 @@ ITEM 1266
 "One fine day, a bus driver went to the bus garage, started his bus, and drove off along the route. No problems for the first few stops, a few people got on, a few got off, and things went generally well.At the next stop, however, a big hulk of a guy got on. Six feet eight, built like a wrestler, arms hanging down to the ground. He glared at the driver and said, "Big John doesn 't pay! " and sat down at the back.The next day the same thing happened-Big John got on again, made a show of refusing to pay, and sat down. And the next day, and the one after that, and so forth. This grated on the bus driver, who started losing sleep over the way Big John was taking advantage of him.Finally he could stand it no longer. He signed up for body building courses, karate, judo, and all that good stuff. By the end of the summer, he had become quite strong; what 's more, he felt really good about himself.So on the next Monday, when Big John once again got on the bus and said, "Big John doesn 't pay!, " the driver stood up, glared back at the passenger, and screamed, "And why not? "With a surprised look on his face, Big John replied, "Big John has a bus pass."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<focus id="f0" spans="658~666" text="ITEM 254"  />
+<focus id="f1" spans="3183~3192" text="ITEM 1239"  />
+<focus id="f2" spans="5387~5395" text="ITEM 383"  />
+<focus id="f3" spans="7677~7686" text="ITEM 1337"  />
+<focus id="f4" spans="8928~8936" text="ITEM 385"  />
+<focus id="f5" spans="10923~10931" text="ITEM 642"  />
+<focus id="f6" spans="12909~12918" text="ITEM 1266"  />
+<character id="c0" spans="120~128" text="ITEM 976"  />
+<character id="c2" spans="6870~6879" text="ITEM 1667"  />
+<character id="c3" spans="8569~8579" text=" ITEM 2098"  />
+<reference id="r0" spans="1~9" text="ITEM 897"  />
+<reference id="r1" spans="258~267" text="ITEM 1167"  />
+<reference id="r2" spans="401~410" text="ITEM 1224"  />
+<reference id="r3" spans="1592~1601" text="ITEM 1492"  />
+<reference id="r4" spans="1698~1706" text="ITEM 541"  />
+<reference id="r5" spans="2958~2967" text="ITEM 1603"  />
+<reference id="r6" spans="4188~4196" text="ITEM 628"  />
+<reference id="r7" spans="4992~5000" text="ITEM 326"  />
+<reference id="r8" spans="8158~8167" text="ITEM 1250"  />
+<reference id="r9" spans="9717~9725" text="ITEM 389"  />
+</TAGS>
 </Humor>

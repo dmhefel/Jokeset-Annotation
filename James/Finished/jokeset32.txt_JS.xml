@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 521
@@ -81,6 +82,27 @@ ITEM 1616
 "A young boy had just gotten his driving permit. He asked his father, who was a minister, if they could discuss his use of the car. His father said to him, "I 'll make a deal with you. You bring your grades up, study your bible a little, and get your hair cut, then we will talk about it " A month later the boy came back and again asked his father if they could discuss his use of the car. His father said, "Son, I 'm real proud of you. You have brought your grades up, you 've studied your bible diligently, but you didn 't get hair cut! " The young man waited a moment and replied, "You know dad, I 've been thinking about that. You know Samson had long hair, Moses had long hair, Noah had long hair, and even Jesus had long hair. " His father replied, "Yes son, and they walked everywhere they went! "
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="6809~6817" text="ITEM 364"  />
+<wordplay id="w1" spans="7528~7537" text="ITEM 1580"  />
+<wordplay id="w2" spans="9090~9099" text="ITEM 1605"  />
+<focus id="f0" spans="1~9" text="ITEM 521"  />
+<focus id="f1" spans="3823~3831" text="ITEM 782"  />
+<focus id="f2" spans="10144~10153" text="ITEM 1564"  />
+<character id="c0" spans="328~336" text="ITEM 941"  />
+<character id="c1" spans="430~437" text="ITEM 52"  />
+<character id="c2" spans="3944~3953" text="ITEM 1608"  />
+<character id="c3" spans="4434~4443" text="ITEM 1435"  />
+<character id="c4" spans="5013~5021" text="ITEM 856"  />
+<character id="c5" spans="7453~7462" text="ITEM 1016"  />
+<character id="c6" spans="10268~10275" text="ITEM 51"  />
+<reference id="r0" spans="1119~1127" text="ITEM 638"  />
+<reference id="r1" spans="2189~2198" text="ITEM 1475"  />
+<reference id="r2" spans="2276~2285" text="ITEM 1537"  />
+<reference id="r3" spans="2811~2819" text="ITEM 365"  />
+<reference id="r4" spans="5642~5651" text="ITEM 1850"  />
+<reference id="r5" spans="5838~5846" text="ITEM 931"  />
+<reference id="r6" spans="11020~11029" text="ITEM 1616"  />
+</TAGS>
 </Humor>

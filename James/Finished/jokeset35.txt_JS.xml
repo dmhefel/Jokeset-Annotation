@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1166
@@ -81,6 +82,27 @@ ITEM 1053
 "Heard your family went to a restaurant where they serve crabs just so they could bring you along."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="6281~6290" text="ITEM 2058"  />
+<wordplay id="w1" spans="11679~11688" text="ITEM 1061"  />
+<wordplay id="w2" spans="12432~12441" text="ITEM 1053"  />
+<focus id="f0" spans="241~249" text="ITEM 494"  />
+<focus id="f1" spans="4182~4191" text="ITEM 2008"  />
+<focus id="f2" spans="7576~7585" text="ITEM 1241"  />
+<focus id="f3" spans="9433~9441" text="ITEM 342"  />
+<focus id="f4" spans="11742~11750" text="ITEM 496"  />
+<character id="c0" spans="125~133" text="ITEM 966"  />
+<character id="c1" spans="2049~2058" text="ITEM 1275"  />
+<character id="c2" spans="2658~2667" text="ITEM 1502"  />
+<character id="c3" spans="3514~3523" text="ITEM 1310"  />
+<reference id="r0" spans="0~10" text=" ITEM 1166"  />
+<reference id="r1" spans="1104~1113" text="ITEM 1022"  />
+<reference id="r2" spans="5419~5428" text="ITEM 1856"  />
+<reference id="r3" spans="5547~5555" text="ITEM 205"  />
+<reference id="r4" spans="7043~7052" text="ITEM 1787"  />
+<reference id="r5" spans="8623~8631" text="ITEM 885"  />
+<reference id="r6" spans="9970~9978" text="ITEM 790"  />
+<shock id="s0" spans="518~526" text="ITEM 411"  />
+</TAGS>
 </Humor>
