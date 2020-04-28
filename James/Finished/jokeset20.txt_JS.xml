@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 972
@@ -81,6 +82,27 @@ ITEM 1529
 "Did you hear about the man with five dicks?-His pants fit like a glove!"
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="9103~9112" text="ITEM 1912"  />
+<wordplay id="w1" spans="12598~12607" text="ITEM 1529"  />
+<focus id="f0" spans="67~75" text="ITEM 842"  />
+<focus id="f1" spans="1085~1094" text="ITEM 2082"  />
+<focus id="f2" spans="2648~2657" text="ITEM 1332"  />
+<focus id="f3" spans="6664~6672" text="ITEM 434"  />
+<focus id="f4" spans="7513~7522" text="ITEM 1507"  />
+<focus id="f5" spans="9248~9257" text="ITEM 1274"  />
+<focus id="f6" spans="11537~11545" text="ITEM 405"  />
+<character id="c0" spans="1~9" text="ITEM 972"  />
+<character id="c1" spans="5151~5160" text="ITEM 1487"  />
+<character id="c2" spans="5384~5392" text="ITEM 308"  />
+<character id="c3" spans="10401~10408" text="ITEM 29"  />
+<character id="c4" spans="10830~10839" text="ITEM 1821"  />
+<reference id="r0" spans="3076~3084" text="ITEM 644"  />
+<reference id="r2" spans="3858~3866" text="ITEM 495"  />
+<reference id="r3" spans="4763~4771" text="ITEM 409"  />
+<reference id="r5" spans="8345~8354" text="ITEM 1825"  />
+<reference id="r7" spans="9835~9843" text="ITEM 616"  />
+<shock id="s0" spans="2066~2074" text="ITEM 761"  />
+</TAGS>
 </Humor>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 13
@@ -79,6 +80,27 @@ ITEM 506
 "A pirate walks into a bar.  He has a peg leg, hook for a hand, and a patch over his eye.The bartender asks "So, what happened to your leg? "The pirate says "Aaar, I was fighting the British Navy and they blew up me ship, I fell over board, and a shark bit me leg off. " "Oh, " said the bartender, "what happened to your hand? "The pirate replies, "Aaar, I was fighting the British Navy again, and won came up and chopped me hand of with his sword. "The bartender then asked, "Well what happened to your eye? "The pirate answered, "Aaar, I was walking down the beach and I looked up and there were some seagulls and one doodooed in me eye. " "And that caused your eye to be put out?, " asked the bartender.To this the pirate said, "No, first day with me hook! ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="2223~2232" text="ITEM 1727"  />
+<wordplay id="w1" spans="6064~6072" text="ITEM 804"  />
+<focus id="f0" spans="2353~2361" text="ITEM 189"  />
+<focus id="f1" spans="3992~4001" text="ITEM 1177"  />
+<focus id="f2" spans="5138~5147" text="ITEM 1936"  />
+<focus id="f3" spans="5654~5662" text="ITEM 177"  />
+<focus id="f4" spans="7431~7439" text="ITEM 542"  />
+<focus id="f5" spans="10472~10480" text="ITEM 529"  />
+<focus id="f6" spans="12532~12540" text="ITEM 187"  />
+<focus id="f7" spans="16746~16754" text="ITEM 506"  />
+<character id="c0" spans="0~8" text=" ITEM 13"  />
+<character id="c1" spans="908~916" text="ITEM 948"  />
+<character id="c2" spans="2817~2824" text="ITEM 86"  />
+<character id="c3" spans="16185~16194" text="ITEM 1646"  />
+<reference id="r0" spans="995~1004" text="ITEM 1625"  />
+<reference id="r1" spans="1394~1403" text="ITEM 1446"  />
+<reference id="r2" spans="4463~4472" text="ITEM 1450"  />
+<reference id="r4" spans="9943~9952" text="ITEM 1366"  />
+<reference id="r5" spans="14029~14037" text="ITEM 473"  />
+<reference id="r6" spans="15343~15352" text="ITEM 1520"  />
+</TAGS>
 </Humor>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1807
@@ -81,6 +82,27 @@ ITEM 867
 "A dying man gathered his Lawyer, Doctor and Clergyman at his bed side and handed each of them an envelope containing $25,000 in cash. He made them each promise that after his death and during his repose, they would place the three envelopes in his coffin. He told them that he wanted to have enough money to enjoy the next life.A week later the man died. At the Wake, the Lawyer and Doctor and Clergyman, each concealed an envelope in the coffin and bid their old client and friend farewell. By chance, these three met several months later. Soon the Clergyman, feeling guilty, blurted out a confession saying that there was only $10,000 in the envelope he placed in the coffin. He felt, rather than waste all the money, he would send it to a Mission in South America. He asked for their forgiveness. The Doctor, moved by the gentle Clergymans sincerity, confessed that he too had kept some of the money for a worthy medical charity. The envelope, he admitted, had only $8000 in it. He said, he too could not bring himself to waste the money so frivolously when it could be used to benefit others.By this time the Lawyer was seething with self-righteous outrage. He expressed his deep disappointment in the felonious behavior of two of his oldest and most trusted friends. "I am the only one who kept his promise to our dying friend. I want you both to know that the envelope I placed in the coffin contained the full amount. Indeed, my envelope contained my personal check for the entire $25,000. ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="721~730" text="ITEM 1557"  />
+<wordplay id="w1" spans="5561~5569" text="ITEM 880"  />
+<focus id="f0" spans="2629~2637" text="ITEM 112"  />
+<focus id="f1" spans="6239~6248" text=" ITEM 924"  />
+<focus id="f2" spans="7191~7200" text="ITEM 1199"  />
+<focus id="f3" spans="7593~7602" text="ITEM 1929"  />
+<focus id="f4" spans="9563~9572" text="ITEM 1506"  />
+<character id="c0" spans="1598~1605" text="ITEM 71"  />
+<character id="c1" spans="4096~4103" text="ITEM 72"  />
+<character id="c2" spans="8088~8096" text="ITEM 850"  />
+<character id="c3" spans="11363~11372" text="ITEM 1233"  />
+<character id="c4" spans="11935~11943" text="ITEM 867"  />
+<reference id="r0" spans="1~10" text="ITEM 1807"  />
+<reference id="r1" spans="100~109" text="ITEM 1458"  />
+<reference id="r2" spans="2206~2214" text="ITEM 449"  />
+<reference id="r3" spans="3315~3323" text="ITEM 558"  />
+<reference id="r4" spans="4726~4734" text="ITEM 549"  />
+<reference id="r5" spans="5013~5022" text="ITEM 1184"  />
+<reference id="r6" spans="9832~9840" text="ITEM 351"  />
+<reference id="r7" spans="10577~10585" text="ITEM 796"  />
+</TAGS>
 </Humor>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 607
@@ -79,6 +80,27 @@ ITEM 505
 "A man went to visit his 90 year old grandfather in a very secluded rural area of the state he lived in.After spending the night, his grandfather prepared breakfast for him consisting of eggs and bacon. He noticed a film like substance on his plate and he questioned his grandfather, "are these plates clean? "His grandfather replied, "Those plates are as clean as cold water can get them, so go on and finish your meal ".That afternoon, while eating the hamburgers his grandfather made for lunch, he noticed tiny specks around the edge of his plate and a substance that looked like dried egg yokes, so he ask again, "Are you sure these plates are clean "?Without looking up from his hamburger, the grandfather says, "I told you before; those dishes are as clean as cold water can get them. Now don 't ask me about it anymore! "Later that afternoon, he was on his way out to get dinner in a nearby town. As he was leaving, his grandfather 's dog started to growl and wouldn 't let him pass so he said, "Grandfather, your dog won 't let me out ".Without diverting his attention from the football game he was watching on TV his grandfather shouted, "Cold Water, Go lay down! ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="1~9" text="ITEM 607"  />
+<focus id="f0" spans="387~396" text="ITEM 1916"  />
+<focus id="f1" spans="470~479" text="ITEM 1298"  />
+<focus id="f2" spans="2200~2208" text="ITEM 671"  />
+<focus id="f3" spans="4466~4475" text="ITEM 1455"  />
+<focus id="f4" spans="6500~6509" text="ITEM 1205"  />
+<focus id="f5" spans="8312~8321" text="ITEM 1260"  />
+<focus id="f6" spans="10174~10183" text="ITEM 1470"  />
+<focus id="f8" spans="11829~11837" text="ITEM 488"  />
+<focus id="f9" spans="12795~12803" text="ITEM 505"  />
+<character id="c0" spans="323~331" text="ITEM 991"  />
+<character id="c1" spans="8063~8073" text=" ITEM 1854"  />
+<character id="c2" spans="10971~10980" text="ITEM 1240"  />
+<character id="c3" spans="12300~12308" text="ITEM 864"  />
+<reference id="r1" spans="2886~2896" text=" ITEM 1369"  />
+<reference id="r2" spans="4861~4869" text="ITEM 111"  />
+<reference id="r3" spans="5594~5604" text=" ITEM 1172"  />
+<reference id="r4" spans="7335~7343" text="ITEM 590"  />
+<reference id="r5" spans="8939~8948" text=" ITEM 775"  />
+<shock id="s0" spans="9781~9790" text="ITEM 1514"  />
+</TAGS>
 </Humor>

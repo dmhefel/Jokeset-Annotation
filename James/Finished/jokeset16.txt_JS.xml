@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1477
@@ -77,6 +78,26 @@ ITEM 1613
 "A man took his old duck to the Doctor, concerned because the duck wouldn 't eat. The Doctor explained to the man that as ducks age their upper bills grow down over their lower bills and make it difficult for the animal to pick up it 's food. "What you need to do is gently file the upper bill down even with the lower bill. But you must be extra careful because the duck 's nostrils are located in the upper bill and if you file down too far, when the duck takes a drink of water it 'll drown. " The man goes about his business and about a week later the Doctor runs into his patient. "Well, how is that duck of yours? " the Doctor inquires. "He 's dead. " declared the heartbroken man. "I told you not to file his upper bill down too far! He took a drink of water and drowned didn 't he? " insisted the Doctor. "No. " lamented the man. "I think he was dead before I took him out of the vice. ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<focus id="f0" spans="1~10" text="ITEM 1477"  />
+<focus id="f1" spans="673~681" text="ITEM 812"  />
+<focus id="f2" spans="1770~1779" text="ITEM 1388"  />
+<focus id="f4" spans="5444~5452" text="ITEM 410"  />
+<focus id="f5" spans="6975~6984" text="ITEM 2083"  />
+<focus id="f6" spans="9387~9396" text="ITEM 1543"  />
+<focus id="f7" spans="10800~10809" text="ITEM 1650"  />
+<focus id="f8" spans="12236~12245" text="ITEM 1179"  />
+<focus id="f9" spans="12908~12917" text="ITEM 1613"  />
+<character id="c0" spans="9650~9659" text="ITEM 1237"  />
+<reference id="r0" spans="295~303" text="ITEM 353"  />
+<reference id="r1" spans="2440~2448" text="ITEM 245"  />
+<reference id="r2" spans="3559~3567" text="ITEM 697"  />
+<reference id="r4" spans="4701~4709" text="ITEM 292"  />
+<reference id="r5" spans="6031~6040" text="ITEM 2067"  />
+<reference id="r6" spans="8063~8072" text="ITEM 1197"  />
+<reference id="r7" spans="10125~10133" text="ITEM 888"  />
+<reference id="r9" spans="11956~11965" text="ITEM 1299"  />
+<shock id="s0" spans="11142~11150" text="ITEM 469"  />
+</TAGS>
 </Humor>

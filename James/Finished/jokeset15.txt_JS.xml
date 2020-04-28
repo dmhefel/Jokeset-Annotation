@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1213
@@ -73,6 +74,25 @@ ITEM 1420
 "Moses, Jesus, and an old guy are playing golf.They come to a hole with a big river running through it. Moses tees off, and the ball lands in the water. He grabs his club, holds it up, and parts the water. He walks down to the water, and chips it out. Jesus is next. He hits the ball and it lands on the water. It doesn 't even float, it just sits there. Jesus walks over to the river, walks on it, and chips it off. The old guy tees off. He hits the ball into the water and just stands there. After a moment, he raises his finger. A fish jumps out of the river, spitis it at a bird, who knocks the ball at the hole, but it lands short, so a gopher climbs up out of the hole and whacks it with his hand, and when it lands short again, an earthquake starts and forces the ground up and the ball rolls into the hole. Then everything returns to normal.Moses turns to Jesus and says, "Man, I hate playing with your dad. ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w1" spans="3295~3303" text="ITEM 733"  />
+<wordplay id="w2" spans="12068~12076" text="ITEM 382"  />
+<wordplay id="w3" spans="12459~12467" text="ITEM 803"  />
+<focus id="f0" spans="477~485" text="ITEM 387"  />
+<focus id="f2" spans="2185~2194" text="ITEM 1785"  />
+<focus id="f3" spans="3996~4005" text="ITEM 2065"  />
+<focus id="f4" spans="6214~6223" text="ITEM 1959"  />
+<focus id="f6" spans="12954~12963" text="ITEM 1420"  />
+<character id="c0" spans="4685~4692" text="ITEM 41"  />
+<character id="c1" spans="8856~8863" text="ITEM 63"  />
+<reference id="r0" spans="1~10" text="ITEM 1213"  />
+<reference id="r2" spans="763~771" text="ITEM 312"  />
+<reference id="r3" spans="1474~1482" text="ITEM 312"  />
+<reference id="r5" spans="5329~5338" text="ITEM 1796"  />
+<reference id="r6" spans="5813~5821" text="ITEM 418"  />
+<reference id="r7" spans="6669~6677" text="ITEM 271"  />
+<reference id="r8" spans="7824~7833" text="ITEM 1716"  />
+<reference id="r9" spans="9381~9389" text="ITEM 882"  />
+</TAGS>
 </Humor>

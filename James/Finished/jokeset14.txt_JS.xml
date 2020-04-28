@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1679
@@ -77,6 +78,26 @@ ITEM 78
 "Two blondes went to the market. While they were there, they each bought a horse. When they got home, they discussed how to tell their horses apart. They decided to cut the tail off of one. That worked for a while, but soon the tail grew back, so they decided that they would break one of the horses ' legs. One of the blondes said, "Which of the horses should we break the leg off of, the brown one or the white one? "."
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="0~10" text=" ITEM 1679"  />
+<wordplay id="w1" spans="2081~2090" text="ITEM 1045"  />
+<wordplay id="w2" spans="2160~2169" text="ITEM 1472"  />
+<focus id="f0" spans="1034~1043" text="ITEM 1738"  />
+<focus id="f1" spans="3794~3802" text="ITEM 614"  />
+<focus id="f2" spans="4614~4623" text=" ITEM 381"  />
+<focus id="f3" spans="5363~5371" text="ITEM 516"  />
+<focus id="f4" spans="7164~7172" text="ITEM 778"  />
+<focus id="f5" spans="10353~10361" text="ITEM 757"  />
+<focus id="f6" spans="12368~12377" text="ITEM 1540"  />
+<character id="c0" spans="2845~2854" text="ITEM 1878"  />
+<character id="c1" spans="12209~12218" text="ITEM 1892"  />
+<character id="c2" spans="12802~12809" text="ITEM 78"  />
+<reference id="r1" spans="3039~3047" text="ITEM 771"  />
+<reference id="r2" spans="5167~5176" text="ITEM 1866"  />
+<reference id="r4" spans="6309~6318" text="ITEM 1272"  />
+<reference id="r5" spans="8005~8013" text="ITEM 914"  />
+<reference id="r6" spans="9241~9249" text="ITEM 896"  />
+<reference id="r7" spans="11865~11874" text="ITEM 1689"  />
+</TAGS>
 </Humor>

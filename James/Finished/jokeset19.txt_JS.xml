@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 950
@@ -73,6 +74,25 @@ ITEM 1525
 "Sandie lost her husband almost four years ago and still has not gotten out of her depression - mourning as if it were only yesterday. Her daughter is constantly calling her and urging her to get back into the world. Finally, Sandie says she 'd go out, but didn 't know anyone. Her daughter immediately replies, "Mama! I have someone for you to meet. " Well, it was an immediate hit. They took to one another and after dating for six weeks he asks her to join him for a weekend in the Catskills. And we know what that meant. Their first night there she undresses as he does. There she stood nude except for a pair of black lacy panties. He in his birthday suit. Looking at her he asks, "Why the black panties? " She replies, "My breasts you can fondle, my body is yours to explore, but down there I am still in mourning. " He knows he 's not getting lucky that night. The following night the same scenario. She 's standing there with the black panties on and he is in his birthday suit; except that he has an erection, on which he has a black condom. She looks at him and asks, "What 's with this...a black condom? " He replies, "I 'd like to offer my condolences. ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="1053~1061" text="ITEM 347"  />
+<wordplay id="w1" spans="5432~5441" text="ITEM 1695"  />
+<wordplay id="w2" spans="7140~7149" text="ITEM 1393"  />
+<focus id="f0" spans="417~426" text="ITEM 1791"  />
+<focus id="f1" spans="3171~3180" text=" ITEM 349"  />
+<focus id="f2" spans="4315~4323" text="ITEM 183"  />
+<focus id="f3" spans="5547~5556" text="ITEM 1333"  />
+<focus id="f5" spans="7900~7908" text="ITEM 198"  />
+<focus id="f6" spans="10530~10539" text="ITEM 1323"  />
+<character id="c0" spans="1~9" text="ITEM 950"  />
+<character id="c1" spans="10406~10415" text="ITEM 1908"  />
+<reference id="r0" spans="88~97" text="ITEM 1678"  />
+<reference id="r1" spans="2012~2021" text="ITEM 1236"  />
+<reference id="r2" spans="6867~6876" text="ITEM 1541"  />
+<reference id="r3" spans="8680~8688" text="ITEM 898"  />
+<reference id="r5" spans="9747~9755" text="ITEM 222"  />
+<reference id="r6" spans="11549~11557" text="ITEM 393"  />
+<reference id="r7" spans="12952~12961" text="ITEM 1525"  />
+</TAGS>
 </Humor>

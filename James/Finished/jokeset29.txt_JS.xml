@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 ITEM 1943
@@ -81,6 +82,27 @@ ITEM 1243
 "On the way to preschool with her daughter, the doctor had left her stethoscope on the car seat, and her little girl picked it up and began playing with it. "How sweet, " thought the doctor, "my daughter wants to follow in my footsteps! "Then the child spoke into the instrument, "Welcome toMcDonald 's. May I take your order? ""
 
 
-]]>
-</TEXT>
+]]></TEXT>
+<TAGS>
+<wordplay id="w0" spans="9389~9399" text=" ITEM 1768"  />
+<focus id="f0" spans="382~391" text="ITEM 1709"  />
+<focus id="f1" spans="3060~3068" text="ITEM 657"  />
+<focus id="f2" spans="5488~5496" text="ITEM 621"  />
+<focus id="f3" spans="11973~11982" text="ITEM 1329"  />
+<focus id="f4" spans="13165~13173" text="ITEM 262"  />
+<character id="c0" spans="985~993" text="ITEM 890"  />
+<character id="c1" spans="4725~4732" text="ITEM 27"  />
+<character id="c2" spans="10979~10988" text="ITEM 1307"  />
+<character id="c3" spans="11489~11496" text="ITEM 34"  />
+<reference id="r1" spans="1903~1912" text="ITEM 1829"  />
+<reference id="r2" spans="4220~4229" text="ITEM 2066"  />
+<reference id="r3" spans="7011~7019" text="ITEM 476"  />
+<reference id="r4" spans="7101~7109" text="ITEM 132"  />
+<reference id="r5" spans="7938~7946" text="ITEM 127"  />
+<reference id="r6" spans="8462~8470" text="ITEM 148"  />
+<reference id="r7" spans="9813~9822" text="ITEM 1231"  />
+<reference id="r8" spans="12253~12262" text="ITEM 1686"  />
+<reference id="r9" spans="13474~13483" text="ITEM 1243"  />
+<shock id="s0" spans="1~10" text="ITEM 1943"  />
+</TAGS>
 </Humor>
