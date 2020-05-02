@@ -93,6 +93,7 @@ ITEM 935
 <character id="c1" spans="5195~5204" text="ITEM 1593"  />
 <character id="c2" spans="11852~11859" text="ITEM 19"  />
 <character id="c3" spans="12960~12968" text="ITEM 939"  />
+<character id="c4" spans="14813~14821" text="ITEM 935"  />
 <reference id="r0" spans="1567~1575" text="ITEM 883"  />
 <reference id="r1" spans="3955~3963" text="ITEM 611"  />
 <reference id="r2" spans="6051~6060" text="ITEM 1735"  />
