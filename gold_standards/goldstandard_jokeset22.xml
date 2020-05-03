@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Humor>
 <TEXT><![CDATA[
 
@@ -72,4 +73,23 @@ ITEM 162
 
 
 ]]></TEXT>
+<TAGS>
+<character id="c0" spans="3~12" text="ITEM 1111"  />
+<character id="c1" spans="200~207" text="ITEM 89"  />
+<character id="c2" spans="2376~2383" text="ITEM 22"  />
+<character id="c3" spans="3809~3817" text="ITEM 618"  />
+<reference id="r0" spans="79~87" text="ITEM 805"  />
+<reference id="r1" spans="1115~1123" text="ITEM 373"  />
+<reference id="r2" spans="2299~2308" text="ITEM 1103"  />
+<reference id="r3" spans="3076~3084" text="ITEM 242"  />
+<reference id="r4" spans="3613~3622" text="ITEM 1900"  />
+<reference id="r5" spans="3735~3744" text="ITEM 1083"  />
+<reference id="r6" spans="4679~4688" text="ITEM 1163"  />
+<reference id="r7" spans="4748~4757" text="ITEM 1931"  />
+<reference id="r8" spans="5990~5998" text="ITEM 370"  />
+<reference id="r9" spans="7299~7308" text=" ITEM 182"  />
+<reference id="r10" spans="8259~8268" text="ITEM 1293"  />
+<reference id="r11" spans="8680~8688" text="ITEM 105"  />
+<reference id="r12" spans="9623~9631" text="ITEM 162"  />
+</TAGS>
 </Humor>
