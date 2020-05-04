@@ -84,11 +84,11 @@ ITEM 1420
 <focus id="f4" spans="3996~4005" text="ITEM 2065"  />
 <focus id="f5" spans="6214~6223" text="ITEM 1959"  />
 <character id="c0" spans="4685~4692" text="ITEM 41"  />
-<character id="c1" spans="8855~8863" text=" ITEM 63"  />
-<reference id="r0" spans="2184~2194" text=" ITEM 1785"  />
+<character id="c1" spans="8855~8863" text="ITEM 63"  />
+<reference id="r0" spans="2184~2194" text="ITEM 1785"  />
 <reference id="r1" spans="5329~5338" text="ITEM 1796"  />
 <reference id="r2" spans="5813~5821" text="ITEM 418"  />
-<reference id="r3" spans="6668~6677" text=" ITEM 271"  />
+<reference id="r3" spans="6668~6677" text="ITEM 271"  />
 <reference id="r4" spans="7824~7833" text="ITEM 1716"  />
 <reference id="r5" spans="9381~9389" text="ITEM 882"  />
 <reference id="r6" spans="12954~12963" text="ITEM 1420"  />

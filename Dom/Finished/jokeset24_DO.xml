@@ -94,15 +94,15 @@ ITEM 1189
 <focus id="f6" spans="9547~9555" text="ITEM 258"  />
 <focus id="f7" spans="11256~11264" text="ITEM 239"  />
 <focus id="f8" spans="13473~13482" text="ITEM 1189"  />
-<character id="c0" spans="2087~2095" text=" ITEM 64"  />
-<character id="c1" spans="7687~7695" text=" ITEM 80"  />
+<character id="c0" spans="2087~2095" text="ITEM 64"  />
+<character id="c1" spans="7687~7695" text="ITEM 80"  />
 <reference id="r0" spans="2509~2518" text="ITEM 1071"  />
 <reference id="r1" spans="3397~3405" text="ITEM 889"  />
 <reference id="r2" spans="4140~4148" text="ITEM 609"  />
 <reference id="r3" spans="4989~4997" text="ITEM 801"  />
 <reference id="r4" spans="8529~8537" text="ITEM 119"  />
 <reference id="r5" spans="10284~10292" text="ITEM 253"  />
-<reference id="r6" spans="12437~12447" text=" ITEM 1181"  />
+<reference id="r6" spans="12437~12447" text="ITEM 1181"  />
 <shock id="s1" spans="6918~6927" text="ITEM 1661"  />
 </TAGS>
 </Humor>

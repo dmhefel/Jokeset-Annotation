@@ -85,23 +85,23 @@ ITEM 935
 ]]></TEXT>
 <TAGS>
 <focus id="f0" spans="2808~2817" text="ITEM 1581"  />
-<focus id="f1" spans="2925~2935" text=" ITEM 1802"  />
+<focus id="f1" spans="2925~2935" text="ITEM 1802"  />
 <focus id="f2" spans="3955~3963" text="ITEM 611"  />
 <focus id="f3" spans="6051~6060" text="ITEM 1735"  />
 <focus id="f4" spans="7316~7324" text="ITEM 295"  />
-<focus id="f5" spans="7583~7592" text=" ITEM 631"  />
+<focus id="f5" spans="7583~7592" text="ITEM 631"  />
 <focus id="f6" spans="10510~10518" text="ITEM 407"  />
 <focus id="f7" spans="13023~13031" text="ITEM 107"  />
 <focus id="f8" spans="13855~13864" text="ITEM 1263"  />
 <character id="c0" spans="5195~5204" text="ITEM 1593"  />
 <character id="c1" spans="11852~11859" text="ITEM 19"  />
 <character id="c2" spans="12960~12968" text="ITEM 939"  />
-<character id="c3" spans="14812~14821" text=" ITEM 935"  />
+<character id="c3" spans="14812~14821" text="ITEM 935"  />
 <reference id="r0" spans="1567~1575" text="ITEM 883"  />
-<reference id="r1" spans="2169~2178" text=" ITEM 853"  />
+<reference id="r1" spans="2169~2178" text="ITEM 853"  />
 <reference id="r2" spans="6997~7006" text="ITEM 1171"  />
 <reference id="r3" spans="7924~7932" text="ITEM 622"  />
-<reference id="r4" spans="8680~8690" text=" ITEM 1788"  />
+<reference id="r4" spans="8680~8690" text="ITEM 1788"  />
 <reference id="r5" spans="9195~9203" text="ITEM 605"  />
 <shock id="s0" spans="1~10" text="ITEM 1696"  />
 </TAGS>

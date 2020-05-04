@@ -72,9 +72,9 @@ ITEM 547
 <focus id="f3" spans="8251~8260" text="ITEM 1340"  />
 <focus id="f4" spans="10091~10099" text="ITEM 547"  />
 <reference id="r0" spans="1189~1198" text="ITEM 1939"  />
-<reference id="r1" spans="1939~1949" text=" ITEM 1886"  />
+<reference id="r1" spans="1939~1949" text="ITEM 1886"  />
 <reference id="r2" spans="2718~2727" text="ITEM 1448"  />
-<reference id="r3" spans="4447~4456" text=" ITEM 599"  />
+<reference id="r3" spans="4447~4456" text="ITEM 599"  />
 <reference id="r4" spans="7069~7078" text="ITEM 1444"  />
 <reference id="r5" spans="7889~7898" text="ITEM 1304"  />
 <reference id="r6" spans="9152~9160" text="ITEM 537"  />

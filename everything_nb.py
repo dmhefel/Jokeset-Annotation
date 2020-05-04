@@ -94,7 +94,7 @@ if __name__ == '__main__':
     data_features = features.toarray()
     data_labels = categories
 
-    x_train, x_test, y_train, y_test = train_test_split(data_features, data_labels, test_size=0.2)
+    x_train, x_test, y_train, y_test = train_test_split(data_features, data_labels, test_size=0.3)
 
     # make models and fit to training data
     model_complement = ComplementNB()
@@ -127,6 +127,7 @@ if __name__ == '__main__':
     evaluate('reference', comp_pred, y_test)
     evaluate('shock', comp_pred, y_test)
     print()
+    print()
 
     print("Bernoulli Accuracy:", '%.2f' % (model_bernoulli.score(x_test, y_test)))
     evaluate('wordplay', bern_pred, y_test)
@@ -134,6 +135,7 @@ if __name__ == '__main__':
     evaluate('character', bern_pred, y_test)
     evaluate('reference', bern_pred, y_test)
     evaluate('shock', bern_pred, y_test)
+    print()
     print()
 
     print("Gaussian Accuracy:", '%.2f' % (model_gaussian.score(x_test, y_test)))
@@ -143,6 +145,7 @@ if __name__ == '__main__':
     evaluate('reference', gaus_pred, y_test)
     evaluate('shock', gaus_pred, y_test)
     print()
+    print()
 
     print("Multinomial Accuracy:", '%.2f' % (model_multinomial.score(x_test, y_test)))
     evaluate('wordplay', mult_pred, y_test)
@@ -150,4 +153,5 @@ if __name__ == '__main__':
     evaluate('character', mult_pred, y_test)
     evaluate('reference', mult_pred, y_test)
     evaluate('shock', mult_pred, y_test)
+    print()
     print()

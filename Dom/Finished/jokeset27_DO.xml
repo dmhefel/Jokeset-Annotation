@@ -92,7 +92,7 @@ ITEM 872
 <character id="c4" spans="8639~8648" text="ITEM 1904"  />
 <character id="c5" spans="8790~8799" text="ITEM 1347"  />
 <character id="c6" spans="11400~11408" text="ITEM 996"  />
-<character id="c7" spans="11839~11848" text=" ITEM 872"  />
+<character id="c7" spans="11839~11848" text="ITEM 872"  />
 <reference id="r0" spans="1244~1253" text="ITEM 1182"  />
 <reference id="r1" spans="1615~1624" text="ITEM 1511"  />
 <reference id="r2" spans="2094~2103" text="ITEM 1932"  />

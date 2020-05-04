@@ -95,7 +95,7 @@ ITEM 1214
 <reference id="r3" spans="7527~7536" text="ITEM 1155"  />
 <reference id="r4" spans="12029~12037" text="ITEM 528"  />
 <reference id="r5" spans="13252~13261" text="ITEM 1214"  />
-<shock id="s0" spans="6378~6387" text=" ITEM 290"  />
+<shock id="s0" spans="6378~6387" text="ITEM 290"  />
 <shock id="s1" spans="8591~8599" text="ITEM 515"  />
 <shock id="s2" spans="12982~12990" text="ITEM 585"  />
 </TAGS>

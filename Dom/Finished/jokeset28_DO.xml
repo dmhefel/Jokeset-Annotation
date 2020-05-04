@@ -92,16 +92,16 @@ ITEM 1096
 <character id="c0" spans="1290~1299" text="ITEM 1232"  />
 <character id="c1" spans="8851~8860" text="ITEM 1576"  />
 <reference id="r0" spans="1~10" text="ITEM 1681"  />
-<reference id="r1" spans="1807~1817" text=" ITEM 1360"  />
+<reference id="r1" spans="1807~1817" text="ITEM 1360"  />
 <reference id="r2" spans="4540~4549" text="ITEM 1569"  />
 <reference id="r3" spans="5837~5846" text="ITEM 1078"  />
 <reference id="r4" spans="5974~5982" text="ITEM 663"  />
 <reference id="r5" spans="6307~6316" text="ITEM 2045"  />
 <reference id="r6" spans="9690~9699" text="ITEM 1864"  />
 <reference id="r7" spans="9830~9839" text="ITEM 1819"  />
-<reference id="r8" spans="11926~11935" text=" ITEM 894"  />
+<reference id="r8" spans="11926~11935" text="ITEM 894"  />
 <reference id="r9" spans="14016~14025" text="ITEM 1684"  />
-<reference id="r10" spans="13206~13216" text=" ITEM 1713"  />
+<reference id="r10" spans="13206~13216" text="ITEM 1713"  />
 <reference id="r11" spans="14084~14092" text="ITEM 128"  />
 <shock id="s0" spans="2321~2329" text="ITEM 194"  />
 </TAGS>

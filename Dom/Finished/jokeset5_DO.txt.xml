@@ -86,7 +86,7 @@ ITEM 1717
 <character id="c0" spans="1635~1643" text="ITEM 960"  />
 <character id="c1" spans="4614~4622" text="ITEM 859"  />
 <character id="c2" spans="7549~7556" text="ITEM 81"  />
-<character id="c3" spans="8162~8172" text=" ITEM 1717"  />
+<character id="c3" spans="8162~8172" text="ITEM 1717"  />
 <reference id="r0" spans="2694~2703" text="ITEM 2073"  />
 <reference id="r1" spans="4406~4415" text="ITEM 1675"  />
 </TAGS>

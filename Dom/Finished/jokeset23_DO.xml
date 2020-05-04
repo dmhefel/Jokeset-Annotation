@@ -85,7 +85,7 @@ ITEM 1579
 ]]></TEXT>
 <TAGS>
 <wordplay id="w0" spans="3898~3907" text="ITEM 1085"  />
-<wordplay id="w1" spans="4977~4987" text=" ITEM 1682"  />
+<wordplay id="w1" spans="4977~4987" text="ITEM 1682"  />
 <focus id="f0" spans="413~421" text="ITEM 161"  />
 <focus id="f1" spans="2467~2475" text="ITEM 363"  />
 <focus id="f2" spans="9078~9087" text="ITEM 1592"  />
@@ -96,8 +96,8 @@ ITEM 1579
 <reference id="r0" spans="3298~3307" text="ITEM 1585"  />
 <reference id="r1" spans="6463~6472" text="ITEM 1522"  />
 <reference id="r2" spans="6907~6916" text="ITEM 1062"  />
-<reference id="r3" spans="7042~7052" text=" ITEM 1228"  />
-<reference id="r4" spans="11709~11717" text="TEM 1852"  />
+<reference id="r3" spans="7042~7052" text="ITEM 1228"  />
+<reference id="r4" spans="11709~11717" text="ITEM 1852"  />
 <shock id="s0" spans="1~9" text="ITEM 729"  />
 <shock id="s1" spans="3965~3974" text="ITEM 1343"  />
 <shock id="s2" spans="7276~7284" text="ITEM 655"  />

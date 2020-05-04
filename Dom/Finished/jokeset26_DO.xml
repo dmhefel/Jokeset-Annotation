@@ -87,13 +87,13 @@ ITEM 1746
 <focus id="f3" spans="8711~8719" text="ITEM 582"  />
 <focus id="f4" spans="9504~9512" text="ITEM 318"  />
 <character id="c0" spans="1~10" text="ITEM 1415"  />
-<character id="c1" spans="4008~4018" text=" ITEM 1379"  />
+<character id="c1" spans="4008~4018" text="ITEM 1379"  />
 <character id="c2" spans="8407~8416" text="ITEM 1920"  />
 <character id="c3" spans="8566~8575" text="ITEM 1342"  />
 <reference id="r0" spans="888~896" text="ITEM 328"  />
 <reference id="r1" spans="2134~2143" text="ITEM 1754"  />
-<reference id="r2" spans="4373~4383" text=" ITEM 1565"  />
-<reference id="r3" spans="4454~4464" text=" ITEM 1449"  />
+<reference id="r2" spans="4373~4383" text="ITEM 1565"  />
+<reference id="r3" spans="4454~4464" text="ITEM 1449"  />
 <reference id="r4" spans="6857~6865" text="ITEM 108"  />
 <reference id="r5" spans="7129~7138" text="ITEM 2022"  />
 <reference id="r6" spans="11257~11266" text="ITEM 1746"  />
