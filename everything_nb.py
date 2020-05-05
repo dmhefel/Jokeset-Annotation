@@ -64,14 +64,15 @@ def evaluate(category, y_pred, y_test):
     f1[0] = (2 * precision[0] * recall[0]) / (precision[0] + recall[0])
     f1[1] = (2 * precision[1] * recall[1]) / (precision[1] + recall[1])
 
-    accuracy = (confusion_matrix[0][0] + confusion_matrix[1][1]) / (confusion_matrix[0][0] + confusion_matrix[1][0] + confusion_matrix[1][1] + confusion_matrix[0][1])
+    # removed, as calculating accuracy this way on a category-by-cateogry basis isn't useful
+    # accuracy = (confusion_matrix[0][0] + confusion_matrix[1][1]) / (confusion_matrix[0][0] + confusion_matrix[1][0] + confusion_matrix[1][1] + confusion_matrix[0][1])
 
     # print results
     print('  ', category.upper())
     print('\tPrecision of', category.lower(), ':',  '{:.2f}'.format(precision[1]))
     print('\tRecall of', category.lower(), ':',  '{:.2f}'.format(recall[1]))
     print('\tF1 of', category.lower(), ':',  '{:.2f}'.format(f1[1]))
-    print('\tAccuracy for', category, ':',  '{:.2f}'.format(accuracy))
+    # print('\tAccuracy for', category, ':',  '{:.2f}'.format(accuracy))
 
 
 def final_test(model, vectorizer):
@@ -127,7 +128,7 @@ if __name__ == '__main__':
     data_features = features.toarray()
     data_labels = categories
 
-    x_train, x_test, y_train, y_test = train_test_split(data_features, data_labels, test_size=0.3)
+    x_train, x_test, y_train, y_test = train_test_split(data_features, data_labels, test_size=0.1)
 
     # make models and fit to training data
     model_complement = ComplementNB()
