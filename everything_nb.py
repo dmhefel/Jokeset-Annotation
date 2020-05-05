@@ -73,22 +73,54 @@ def evaluate(category, y_pred, y_test):
     print('\tAccuracy for', category, ':',  '{:.2f}'.format(accuracy))
 
 
-if __name__ == '__main__':
-    messages = []
-    categories = []
+def final_test(model, vectorizer):
+    # perform the same steps as testing in main, but using a withheld set of 10% of our data and the model and vectorizer method that were found to produce the best results
+    jokes_final = []
+    categories_final = []
 
-    for root, dirs, files in os.walk('gold_standards\categorized'):
+    for root, dirs, files in os.walk('gold_standards/final_test'):
         for name in files:
             with open(os.path.join(root, name)) as f:
                 contents = f.read().lower()
-                messages.append(contents)
+                jokes_final.append(contents)
 
-                # list of pos/neg in the same order as the review words
+                categories_final.append(basename(root))
+
+    features_final = vectorizer.transform(jokes_final)
+
+    data_features_final = features_final.toarray()
+    data_labels_final = categories_final
+
+    final_pred = model.predict(data_features_final)
+
+    print()
+    print()
+    print()
+    print()
+    print("FINAL ACCURACY:", '%.2f' % (model.score(data_features_final, data_labels_final)))
+    evaluate('wordplay', final_pred, data_labels_final)
+    evaluate('focus', final_pred, data_labels_final)
+    evaluate('character', final_pred, data_labels_final)
+    evaluate('reference', final_pred, data_labels_final)
+    evaluate('shock', final_pred, data_labels_final)
+
+
+if __name__ == '__main__':
+    jokes = []
+    categories = []
+
+    for root, dirs, files in os.walk('gold_standards/categorized'):
+        for name in files:
+            with open(os.path.join(root, name)) as f:
+                contents = f.read().lower()
+                jokes.append(contents)
+
+                # list of joke categories in the same order as the jokes
                 categories.append(basename(root))
 
-    # get frequency vector with x-axis messages and y-axis words in any message
+    # get frequency vector with x-axis jokes and y-axis words in any joke
     vectorizer = CountVectorizer()
-    features = vectorizer.fit_transform(messages)
+    features = vectorizer.fit_transform(jokes)
 
     # change features from sparse array to full array
     data_features = features.toarray()
@@ -128,7 +160,7 @@ if __name__ == '__main__':
     evaluate('shock', comp_pred, y_test)
     print()
     print()
-
+    
     print("Bernoulli Accuracy:", '%.2f' % (model_bernoulli.score(x_test, y_test)))
     evaluate('wordplay', bern_pred, y_test)
     evaluate('focus', bern_pred, y_test)
@@ -155,3 +187,5 @@ if __name__ == '__main__':
     evaluate('shock', mult_pred, y_test)
     print()
     print()
+
+    final_test(model_complement, vectorizer)
