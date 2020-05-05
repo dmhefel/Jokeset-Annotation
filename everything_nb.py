@@ -11,6 +11,7 @@ from sklearn.model_selection import train_test_split
 
 
 def evaluate(category, y_pred, y_test):
+    # If category is never guessed, NumPy will produce the error "RuntimeWarning: invalid value encountered in double scalars", but the method will still run correctly
     confusion_matrix = np.zeros((2, 2))
     precision = np.zeros(2)
     recall = np.zeros(2)
